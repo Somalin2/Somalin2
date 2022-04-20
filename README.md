@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @lin
+- 🌱 I’m currently learning Flutter.
+- 💞️ I’m looking to collaborate on app development.
+- 📫 How to reach me FB@LinLynLeen
+- Or LinKyuketsuki
